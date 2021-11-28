@@ -68,8 +68,8 @@ params:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
     - company: "Facebook"
-       id: "facebook-Member PMO" 
-      role: "Member oF Project Management Office"
+       id: "Facebook-Member PMO" 
+      #role: "Member oF Project Management Office"
       startdate: Mar 2020
       enddate: Dec 2020
       featuredpoints:
