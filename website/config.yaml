@@ -106,10 +106,10 @@ I am passionate about Data Science and anything related to technology. Currently
   # Achievements
   disable_achievements: false
   achievements:
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
-      url: https://example.com
+    - title: Big Data Certified Associate (BDCA)
+      description: International Capatitation in the Bid Data Framework
+      img: /images/certi-bigdata.jpg
+      url: https://drive.google.com/file/d/1X3RXeXSrel8xloeXrXb9ddq9a93PzuAb/view?usp=sharing
     - title: Competition winner
       description: We are developed a product which can help others.
       img: /images/achiv.jpg
