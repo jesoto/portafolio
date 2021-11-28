@@ -68,7 +68,7 @@ params:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
     - company: "Sedipro PUCP "
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
+       id: "Sedipro PUCP-Member PMO" 
       role: "Member oF Project Management Office"
       startdate: Mar 2020
       enddate: Dec 2020
