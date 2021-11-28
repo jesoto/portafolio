@@ -44,8 +44,14 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "hello! I am Jesús, an economics student at the Faculty of Social Sciences of the Pontifical Catholic University of Peru.
+🙋‍♂️ I am a proactive, persevering person, with analytical skills and motivated by continuous learning.
+I am passionate about Data Science  "
+
+
+
+  descripe_l2_person: "🎯 My goal is to develop my professional career in data science, being part of a company that allows me to apply everything I
+   have learned so far and continue to grow both personally and professionally to achieve the best possible results."
   skills:
     - name: Python
       percentage: 90
@@ -65,7 +71,7 @@ params:
       startdate: Jul 2021
       enddate: present
       featuredpoints:
-        - point: Monitoring the prodcut portofolio using risk index
+        - point: Monitoring the product portofolio using risk index
         - point: Manipulate data to generate insights by Dashboards
         - point: Build a Credit Scoring model to know the profile of the defaults customers
 
@@ -73,7 +79,7 @@ params:
   disable_education: false
   education:
     - degree: "B. Economics"
-      branch: "Social Science"
+      branch: "Social Sciences"
       university: "Pontifical Catholic University of Peru"
       startedyear: "2017"
       graduation: "2022"
