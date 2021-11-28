@@ -59,30 +59,15 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
+    - company: "Interbank"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
+      role: "Portafolio Monitoring Intern"
+      startdate: Jul 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
-       id: "Facebook-Member PMO" 
-      #role: "Member oF Project Management Office"
-      startdate: Mar 2020
-      enddate: Dec 2020
-      featuredpoints:
-        - point: learn and teach to others members and groups about Project Management and agile methodologies.
-        - point: Develop academic project related to the projecto portafolio of Sedipro PUCP.
-    - company: "Amazon"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Monitoring the prodcut portofolio using risk index
+        - point: Manipulate data to generate insights by Dashboards
+        - point: Build a Credit Scoring model to know the profile of the defaults customers
 
   # Education
   disable_education: false
