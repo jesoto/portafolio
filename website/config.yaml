@@ -46,12 +46,12 @@ params:
   disable_about: false
   descripe_l1_person: "hello! I am Jesús, an economics student at the Faculty of Social Sciences of the Pontifical Catholic University of Peru.
  I am a proactive, persevering person, with analytical skills and motivated by continuous learning.
-I am passionate about Data Science and anything related to technology "
+I am passionate about Data Science and anything related to technology. Currently, I'm working as a Portafolio Monitoring Intern at Interbank where I've learning a lot of data management "
 
 
 
-  descripe_l2_person: "🎯 My goal is to develop my professional career in data science, being part of a company that allows me to apply everything I
-   have learned so far and continue to grow both personally and professionally to achieve the best possible results."
+  descripe_l2_person: "🎯 My goal is to develop my professional career in the data science field, being part of a company that allows me to apply everything I
+   have learned so far and continue to grow both personally and professionally to achieve the best results."
   skills:
     - name: Python
       percentage: 90
