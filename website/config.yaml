@@ -103,7 +103,7 @@ I am passionate about Data Science and anything related to technology. Currently
       featuredlink: "/"
       description: "Description of project"
 
-  # Achievements
+  # Courses
   disable_achievements: false
   achievements:
     - title: Competition winner
