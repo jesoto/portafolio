@@ -1,6 +1,6 @@
 ---
 title: "Credit Scoring Model"
-date: 
+date: false
 draft: false
 github_link: "https://github.com/jesoto/Credit_Scoring/blob/main/pd_tc.v1.0.ipynb"
 author: "Gurusabarish"
