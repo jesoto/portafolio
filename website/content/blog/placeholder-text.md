@@ -1,6 +1,6 @@
 ---
 title: "Sentiment analysis of the news in the Peru: The effect on the dolar"
-date: 2021-11-30 T22:53:58+05:30
+date: 2021-11-30T23:29:21+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Gurusabarish"
