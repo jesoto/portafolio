@@ -46,7 +46,7 @@ params:
   disable_about: false
   descripe_l1_person: " 🙋🏻‍♂️ Hello! I am Jesús, an economics student at the Faculty of Social Sciences of the Pontifical Catholic University of Peru.
  I am a proactive, persevering person, with analytical skills and motivated by continuous learning.
-I am passionate about Data Science and anything related to technology. Currently, I'm working as a Portafolio Monitoring Intern at Interbank where I've learning a lot of data management "
+I am passionate about Data Science and anything related to technology. Currently, I'm working as a Portafolio Monitoring Intern at Interbank where I've learning a lot of data management. "
 
 
 
@@ -88,7 +88,7 @@ I am passionate about Data Science and anything related to technology. Currently
       startdate: Jan 2020
       enddate: March 2020
       featuredpoints:
-        - point: Apoyo en las intalación y configuración de salas de presentación y proyectores
+        - point: Support in the installation and configuration of presentation rooms and projectors
         
 
   # Education
