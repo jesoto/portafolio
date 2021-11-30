@@ -108,7 +108,12 @@ I am passionate about Data Science and anything related to technology. Currently
       img: /images/churn.jpg
       githublink: "https://github.com/jesoto/Churn-Prediction-Tarjetas-de-credito/blob/main/Proyecto_Tarjeta_de_cr%C3%A9dito.ipynb"
       featuredlink: "/"
-      description: "Description of project"
+      description: "In order to retain customers, we seek to predict whether customers will leave the service. For this purpose we will use classification algorithms such as Logistic Regression and Random forest. In the first part we did a quick introduction to the variables, data preprocessing, then a Exploratory data analysis and finally the results of the model performance "
+    
+    - name: "Vaccination Dashboard Peru 2021"
+      img: /images/vacunacion.jpeg
+      githublink: "https://app.powerbi.com/groups/me/reports/04c590b6-d3ba-45b8-ad90-23e3b8f1cf4c/ReportSection?ctid=360bc517-7aac-4c17-9907-4c5f13a12289"
+
 
   # Achievements
   disable_achievements: false
