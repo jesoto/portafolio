@@ -1,5 +1,5 @@
 ---
-title: "Sentiment analysis fo the news in the Peru: The effect on the dolar"
+title: "Sentiment analysis of the news in the Peru: The effect on the dolar"
 date: 
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
