@@ -88,9 +88,9 @@ I am passionate about Data Science and anything related to technology. Currently
   # Projects
   disable_projects: false
   projects:
-    - name: "Example project without details"
-      img: /images/project.jpg
-      githublink: "https://github.com/"
+    - name: "Credit Card churn predition"
+      img: /churn.jpg
+      githublink: "https://github.com/jesoto/Churn-Prediction-Tarjetas-de-credito/blob/main/Proyecto_Tarjeta_de_cr%C3%A9dito.ipynb"
       featuredlink: "/"
       description: "Description of project"
 
