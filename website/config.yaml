@@ -101,16 +101,19 @@ I am passionate about Data Science and anything related to technology. Currently
       description: International Capatitation in the Bid Data Framework
       img: /images/certi-bigdata.jpg
       url: https://drive.google.com/file/d/1X3RXeXSrel8xloeXrXb9ddq9a93PzuAb/view?usp=sharing
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
-      # url: https://example.com
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
+    - title: Machine Learning Explainibility Course
+      description: Techniques to extract the following insights from sophisticated machine learning models 
+      img: /images/Machine_Learning_Explainability.png
+      url: https://drive.google.com/file/d/1MzT4RZyM1pCZqBXidroCGn9-3UocD2ad/view?usp=sharing
+    - title: Innovation Challenge Participation
+      description: We are developed a product which can help to activate the tourism after the Pandemic
+      img: /images/innovation.jpg
+      url: https://drive.google.com/file/d/1Zxuc749TeMwGLuf79wmcPfozh2XcWKrd/view?usp=sharing
+    - title: Scrum Workshop
+      description: Training in agile methodologies
+      img: /scrum_sinerges.jpg
+      url: https://drive.google.com/file/d/1sPsSqX7O9eaPE-ahDDGx0wkBcKosfnvt/view?usp=sharing
+    
 
   # Contact
   disable_contact: false
