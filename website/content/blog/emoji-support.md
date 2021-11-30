@@ -1,8 +1,8 @@
 ---
-title: "Emoji Support"
+title: "Credit Scoring Model"
 date: 2021-04-03T22:53:58+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
+github_link: "https://github.com/jesoto/Credit_Scoring/blob/main/pd_tc.v1.0.ipynb"
 author: "Gurusabarish"
 tags:
   - Emoji support
